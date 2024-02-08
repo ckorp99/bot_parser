@@ -1,0 +1,19 @@
+py -m pip uninstall Pyrogram
+pip install ascii
+pip install ascii-python
+pip install pyinstaller==5.0.1
+pip install pip==22.0.4
+pip install Pyrogram
+pip install TgCrypto==1.2.3
+pip install aiogram
+pip install pytransform3d==1.13.0
+pip install pyarmor==7.4.2
+pip install auto-py-to-exe
+pip install Nuitka
+pip install pefile
+pip install PySocks
+pip install pytz
+pip install pywin32
+pip install pywin32-ctypes
+pip install setuptools         
+pip install pytransform 
